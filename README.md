@@ -42,6 +42,7 @@ cd food-ordering-app
 🌐 Deployment Link  
 👉 **Live Demo:** [View on Vercel](https://food-ordering-app-git-main-ramyas-projects-5b4a19fa.vercel.app)
 
+
 🛠 API Used
 https://spoonacular.com/food-api/console#Profile
 
